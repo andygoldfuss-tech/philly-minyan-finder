@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "zip": "19151",
+    "targetRadiusMiles": 5
+  },
+  "shuls": [
+    {
+      "id": "lower-merion-synagogue",
+      "name": "Lower Merion Synagogue",
+      "area": "Bala Cynwyd",
+      "website": null,
+      "scheduleSources": [
+        "https://shtetly.com/g/minyanim-philadelphia"
+      ],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "manual",
+      "scheduleStatus": "needs_verification"
+    },
+    {
+      "id": "merion-shtiebel",
+      "name": "Merion Shtiebel",
+      "area": "Merion Station",
+      "website": null,
+      "scheduleSources": [
+        "https://shtetly.com/g/minyanim-philadelphia"
+      ],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "manual",
+      "scheduleStatus": "needs_verification"
+    },
+    {
+      "id": "kol-torah",
+      "name": "Kol Torah",
+      "area": "Bala Cynwyd",
+      "website": null,
+      "scheduleSources": [
+        "https://shtetly.com/g/minyanim-philadelphia"
+      ],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "manual",
+      "scheduleStatus": "needs_verification"
+    },
+    {
+      "id": "chabad-of-the-main-line",
+      "name": "Chabad of the Main Line",
+      "area": "Merion Station",
+      "website": null,
+      "scheduleSources": [
+        "https://shtetly.com/g/minyanim-philadelphia"
+      ],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "manual",
+      "scheduleStatus": "needs_verification"
+    },
+    {
+      "id": "philadelphia-community-kollel",
+      "name": "Philadelphia Community Kollel",
+      "area": "Merion Station",
+      "website": null,
+      "scheduleSources": [
+        "https://www.phillykollel.org/davening-times.html"
+      ],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "manual",
+      "scheduleStatus": "needs_verification"
+    },
+    {
+      "id": "young-israel-of-the-main-line",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "website": "https://www.yiml.org/",
+      "scheduleSources": [
+        "https://www.yiml.org/"
+      ],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "manual",
+      "scheduleStatus": "needs_verification"
+    },
+    {
+      "id": "beth-hamedrosh",
+      "name": "Beth Hamedrosh",
+      "area": null,
+      "website": null,
+      "scheduleSources": [],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "not_started",
+      "scheduleStatus": "research_candidate"
+    },
+    {
+      "id": "chabad-of-penn-wynne",
+      "name": "Chabad of Penn Wynne",
+      "area": null,
+      "website": null,
+      "scheduleSources": [],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "not_started",
+      "scheduleStatus": "research_candidate"
+    },
+    {
+      "id": "beis-menachem",
+      "name": "Beis Menachem",
+      "area": null,
+      "website": null,
+      "scheduleSources": [],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "not_started",
+      "scheduleStatus": "research_candidate"
+    },
+    {
+      "id": "philadelphia-yeshiva",
+      "name": "Philadelphia Yeshiva",
+      "area": null,
+      "website": null,
+      "scheduleSources": [],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "not_started",
+      "scheduleStatus": "research_candidate"
+    },
+    {
+      "id": "raim-ahuvim",
+      "name": "Raim Ahuvim",
+      "area": null,
+      "website": null,
+      "scheduleSources": [],
+      "address": null,
+      "phone": null,
+      "nusach": null,
+      "access": "unconfirmed",
+      "collection": "not_started",
+      "scheduleStatus": "research_candidate"
+    }
+  ]
+}
