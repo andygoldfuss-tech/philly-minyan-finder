@@ -566,6 +566,150 @@
       "directory": true,
       "verification": "unconfirmed_directory",
       "lastVerified": null
+    },
+    {
+      "id": "kollel-sat-maariv",
+      "name": "Philadelphia Community Kollel",
+      "area": "Merion Station",
+      "type": "Maariv",
+      "days": "shabbos",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": 55
+      },
+      "url": "https://www.phillykollel.org/davening-times.html",
+      "published": true,
+      "directory": false,
+      "verification": "official_schedule",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "lms-rel-mincha",
+      "name": "Lower Merion Synagogue",
+      "area": "Bala Cynwyd",
+      "type": "Mincha",
+      "days": "sunthu",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": -10
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "lms-rel-maariv",
+      "name": "Lower Merion Synagogue",
+      "area": "Bala Cynwyd",
+      "type": "Maariv",
+      "days": "sunthu",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": 0
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "cml-rel-mincha",
+      "name": "Chabad of the Main Line",
+      "area": "Merion Station",
+      "type": "Mincha",
+      "days": "sunthu",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": -10
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "cml-rel-maariv",
+      "name": "Chabad of the Main Line",
+      "area": "Merion Station",
+      "type": "Maariv",
+      "days": "sunthu",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": 0
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "cpw-rel-mincha",
+      "name": "Chabad of Penn Wynne (confirm quorum)",
+      "area": "Philadelphia",
+      "type": "Mincha",
+      "days": "shabbos",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": -28
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "yiml-rel-mincha",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Mincha",
+      "days": "sunthu",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": -10
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "yiml-rel-maariv",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Maariv",
+      "days": "sunthu",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": 10
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "yiml-sat-mincha",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Mincha",
+      "days": "shabbos",
+      "relative": {
+        "base": "sunset",
+        "offsetMinutes": -25
+      },
+      "url": "https://shtetly.com/g/minyanim-bala-cynwyd-lower-merion-pa",
+      "published": true,
+      "directory": true,
+      "verification": "unconfirmed_directory",
+      "lastVerified": "2026-11-26"
     }
   ]
 }
