@@ -18,7 +18,8 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "manual",
-      "scheduleStatus": "needs_verification"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "merion-shtiebel",
@@ -33,7 +34,8 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "manual",
-      "scheduleStatus": "needs_verification"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "kol-torah",
@@ -48,7 +50,8 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "manual",
-      "scheduleStatus": "needs_verification"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "chabad-of-the-main-line",
@@ -63,7 +66,8 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "manual",
-      "scheduleStatus": "needs_verification"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "philadelphia-community-kollel",
@@ -78,7 +82,8 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "manual",
-      "scheduleStatus": "needs_verification"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "young-israel-of-the-main-line",
@@ -93,33 +98,41 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "manual",
-      "scheduleStatus": "needs_verification"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "beth-hamedrosh",
       "name": "Beth Hamedrosh",
       "area": null,
-      "website": null,
-      "scheduleSources": [],
-      "address": null,
-      "phone": null,
-      "nusach": null,
+      "website": "https://www.bethhamedrosh.org/",
+      "scheduleSources": [
+        "https://kosherplanit.com/mid-atlantic/philadelphia/"
+      ],
+      "address": "200 Haverford Rd, Wynnewood, PA 19096",
+      "phone": "610-642-6444",
+      "nusach": "Ashkenaz",
       "access": "unconfirmed",
       "collection": "not_started",
-      "scheduleStatus": "research_candidate"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "chabad-of-penn-wynne",
       "name": "Chabad of Penn Wynne",
       "area": null,
-      "website": null,
-      "scheduleSources": [],
-      "address": null,
-      "phone": null,
-      "nusach": null,
+      "website": "https://www.chabadpennwynne.org/",
+      "scheduleSources": [
+        "https://shtetly.com/g/minyanim-philadelphia",
+        "https://kosherplanit.com/mid-atlantic/philadelphia/"
+      ],
+      "address": "45 Haverford Rd, Wynnewood, PA 19096",
+      "phone": "610-529-9011",
+      "nusach": "Ari",
       "access": "unconfirmed",
       "collection": "not_started",
-      "scheduleStatus": "research_candidate"
+      "scheduleStatus": "conflicting_directory_times",
+      "attendanceStatus": "contact_to_confirm"
     },
     {
       "id": "beis-menachem",
@@ -132,20 +145,24 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "not_started",
-      "scheduleStatus": "research_candidate"
+      "scheduleStatus": "research_candidate",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "philadelphia-yeshiva",
       "name": "Philadelphia Yeshiva",
       "area": null,
       "website": null,
-      "scheduleSources": [],
-      "address": null,
-      "phone": null,
-      "nusach": null,
-      "access": "unconfirmed",
+      "scheduleSources": [
+        "https://shtetly.com/g/minyanim-philadelphia"
+      ],
+      "address": "6063 Drexel Rd, Philadelphia, PA 19131",
+      "phone": "215-477-1000",
+      "nusach": "Ashkenaz",
+      "access": "confirm_visitor_access",
       "collection": "not_started",
-      "scheduleStatus": "research_candidate"
+      "scheduleStatus": "needs_verification",
+      "attendanceStatus": "unknown"
     },
     {
       "id": "raim-ahuvim",
@@ -158,7 +175,8 @@
       "nusach": null,
       "access": "unconfirmed",
       "collection": "not_started",
-      "scheduleStatus": "research_candidate"
+      "scheduleStatus": "research_candidate",
+      "attendanceStatus": "unknown"
     }
   ]
 }
