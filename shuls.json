@@ -13,9 +13,9 @@
       "scheduleSources": [
         "https://shtetly.com/g/minyanim-philadelphia"
       ],
-      "address": null,
-      "phone": null,
-      "nusach": null,
+      "address": "123 Old Lancaster Rd, Bala Cynwyd, PA 19004",
+      "phone": "610-664-5626",
+      "nusach": "Ashkenaz",
       "access": "unconfirmed",
       "collection": "manual",
       "scheduleStatus": "needs_verification",
@@ -29,9 +29,9 @@
       "scheduleSources": [
         "https://shtetly.com/g/minyanim-philadelphia"
       ],
-      "address": null,
+      "address": "223 N Highland Ave, Merion Station, PA 19066",
       "phone": null,
-      "nusach": null,
+      "nusach": "Ashkenaz",
       "access": "unconfirmed",
       "collection": "manual",
       "scheduleStatus": "needs_verification",
@@ -45,9 +45,9 @@
       "scheduleSources": [
         "https://shtetly.com/g/minyanim-philadelphia"
       ],
-      "address": null,
-      "phone": null,
-      "nusach": null,
+      "address": "142 Montgomery Ave, Bala Cynwyd, PA 19004",
+      "phone": "215-478-3241",
+      "nusach": "Ashkenaz",
       "access": "unconfirmed",
       "collection": "manual",
       "scheduleStatus": "needs_verification",
@@ -123,16 +123,18 @@
       "area": null,
       "website": "https://www.chabadpennwynne.org/",
       "scheduleSources": [
+        "https://www.chabadpennwynne.org/",
         "https://shtetly.com/g/minyanim-philadelphia",
         "https://kosherplanit.com/mid-atlantic/philadelphia/"
       ],
-      "address": "45 Haverford Rd, Wynnewood, PA 19096",
+      "address": "7571 Haverford Avenue, Philadelphia, PA 19151",
       "phone": "610-529-9011",
       "nusach": "Ari",
       "access": "unconfirmed",
       "collection": "not_started",
       "scheduleStatus": "conflicting_directory_times",
-      "attendanceStatus": "contact_to_confirm"
+      "attendanceStatus": "contact_to_confirm",
+      "notes": "Official homepage lists 6:45 AM morning services Nov 23–26 and regular Shabbat services 10 AM; confirm future weekday dates and quorum."
     },
     {
       "id": "beis-menachem",
