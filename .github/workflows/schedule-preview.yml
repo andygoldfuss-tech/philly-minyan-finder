@@ -1,0 +1,22 @@
+name: Minyan schedule preview
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 9 * * *'
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch and validate public calendar
+        run: |
+          curl --fail --silent --show-error --location --max-time 30 https://www.yiml.org/ -o /tmp/yiml.html
+          python3 scrape.py /tmp/yiml.html > preview.json
+          cat preview.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: yiml-preview
+          path: preview.json
