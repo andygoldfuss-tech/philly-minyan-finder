@@ -221,20 +221,6 @@
       "published": true,
       "verification": "dated_published",
       "lastVerified": "2026-11-26"
-    },
-    {
-      "id": "kohelet-mincha",
-      "name": "Kohelet Yeshiva (confirm)",
-      "area": "Merion Station",
-      "type": "Mincha",
-      "time": "15:05",
-      "days": "weekdays",
-      "url": "https://www.koheletyeshiva.org/apps/pages/msfaq",
-      "published": true,
-      "directory": true,
-      "verification": "unconfirmed_user_report",
-      "lastVerified": null,
-      "notes": "Tentative time; school days only. Confirm school calendar, time and visitor access before travel."
     }
   ]
 }
