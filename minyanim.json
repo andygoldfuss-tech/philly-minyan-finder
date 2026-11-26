@@ -169,6 +169,58 @@
       "published": true,
       "verification": "previously_published",
       "lastVerified": null
+    },
+    {
+      "id": "yiml-2026-11-26-0",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Shacharis",
+      "time": "07:15",
+      "days": "daily",
+      "date": "2026-11-26",
+      "url": "https://www.yiml.org/",
+      "published": true,
+      "verification": "dated_published",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "yiml-2026-11-26-1",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Shacharis",
+      "time": "08:45",
+      "days": "daily",
+      "date": "2026-11-26",
+      "url": "https://www.yiml.org/",
+      "published": true,
+      "verification": "dated_published",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "yiml-2026-11-26-2",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Mincha/Maariv",
+      "time": "16:25",
+      "days": "daily",
+      "date": "2026-11-26",
+      "url": "https://www.yiml.org/",
+      "published": true,
+      "verification": "dated_published",
+      "lastVerified": "2026-11-26"
+    },
+    {
+      "id": "yiml-2026-11-26-3",
+      "name": "Young Israel of the Main Line",
+      "area": "Bala Cynwyd",
+      "type": "Maariv",
+      "time": "19:45",
+      "days": "daily",
+      "date": "2026-11-26",
+      "url": "https://www.yiml.org/",
+      "published": true,
+      "verification": "dated_published",
+      "lastVerified": "2026-11-26"
     }
   ]
 }
